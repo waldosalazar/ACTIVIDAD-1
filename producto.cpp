@@ -11,7 +11,7 @@ string Producto::getName() const
 
 void Producto::setName(const string &value)
 {
-    strcpy(name,value.c_str());
+    strcpy(name, value.c_str());
 }
 
 string Producto::getDescription() const
