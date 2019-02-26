@@ -8,7 +8,7 @@
  *
  *	Omar Alberto Pérez Calvario	217758551
  *	Diego Damián Medina Hernández	213389985
- *	Alejandro Waldo
+ *	Alejandro Waldo Salazar		214597832
  *
 */
 
